@@ -7,3 +7,7 @@ Power BI report prepared for the contest organised by #BI_NGO (Business Intellig
 Data for the report was partly provided by the organisers and partly extracted from Wikistats.
 
 **Technologies used:** Power Query, Power BI
+
+<p align="left">
+<img src="img/home_screen.jpg" alt="profit" width="800" title="">
+</p>
